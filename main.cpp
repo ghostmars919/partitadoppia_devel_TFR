@@ -10,7 +10,6 @@ void input();
 double sal_stip, deb_tfr, indice;
 bool flag = 0;
 const double RETR = 13.5;
-const double A = 1.50;
 
 int main(){
 
